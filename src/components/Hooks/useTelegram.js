@@ -16,4 +16,4 @@ tg.MainButton.show();
 		user: tg.initDataUnsafe?.user,
 	
 }
-},
+}
